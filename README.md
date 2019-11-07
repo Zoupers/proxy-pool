@@ -3,10 +3,9 @@
 =======
 [![Build Status](https://travis-ci.org/jhao104/proxy_pool.svg?branch=master)](https://travis-ci.org/jhao104/proxy_pool)
 [![](https://img.shields.io/badge/Powered%20by-@j_hao104-green.svg)](http://www.spiderpy.cn/blog/)
-[![Requirements Status](https://requires.io/github/jhao104/proxy_pool/requirements.svg?branch=master)](https://requires.io/github/jhao104/proxy_pool/requirements/?branch=master)
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/jhao104/proxy_pool/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/jhao104/proxy_pool.svg)](https://github.com/jhao104/proxy_pool/graphs/contributors)
-[![](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/jhao104/proxy_pool)
+![Requirements Status](https://requires.io/github/Zoupers/proxy_pool/requirements)
+![GitHub contributors](https://img.shields.io/github/contributors/Zoupers/proxy-pool)
+[![](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/Zoupers/proxy_pool)
 
     ______                        ______             _
     | ___ \_                      | ___ \           | |
@@ -17,11 +16,6 @@
                            __ / /
                           /___ /
 
-##### [介绍文档](https://github.com/jhao104/proxy_pool/blob/master/doc/introduce.md)
-
-* 支持版本: ![](https://img.shields.io/badge/Python-2.x-green.svg) ![](https://img.shields.io/badge/Python-3.x-blue.svg)
-
-* 测试地址: http://123.207.35.36:5010 (单机勿压。感谢)
 
 ### 下载安装
 
