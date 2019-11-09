@@ -12,16 +12,10 @@
 """
 __author__ = 'Zoupers'
 
-import requests
+from Test.testGetConfig import testGetConfig
 
 
-for i in range(100):
-    r = requests.get("http://127.0.0.1:8080/get/http")
-    proxy = "http://"+r.text
-    print(proxy)
-    try:
-        test = requests.get("https://httpbin.org/ip", proxies={'http': proxy})
-        print(test.text[:500], test.status_code)
-    except Exception as e:
-        print(e)
+if __name__ == "__main__":
+    testGetConfig()
+
 
