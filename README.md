@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/Zoupers/proxy-pool.svg?branch=master)](https://travis-ci.org/Zoupers/proxy-pool)
 [![](https://img.shields.io/badge/Powered--By-Zoupers-blue)](https://zoupers.github.io/)
 [![Requirements Status](https://requires.io/github/Zoupers/proxy-pool/requirements.svg?branch=master)](https://requires.io/github/Zoupers/proxy-pool/requirements/?branch=master)
+[![Build Status](https://travis-ci.org/Zoupers/proxy-pool.svg?branch=master)](https://travis-ci.org/Zoupers/proxy-pool)
 [![GitHub contributors](https://img.shields.io/github/contributors/Zoupers/proxy-pool)](https://github.com/Zoupers/proxy-pool/graphs/contributors)
 [![](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/Zoupers/proxy-pool)
 ![GitHub](https://img.shields.io/github/license/Zoupers/proxy-pool)
